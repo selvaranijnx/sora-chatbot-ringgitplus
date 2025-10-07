@@ -8,3 +8,6 @@ Pls guide me with full of patience and love. <3
 Thank you so much!
 
 Simply update for second time to commit.
+
+First merge was successful. 
+Now I am try to commit and merge to main for the second time. 
