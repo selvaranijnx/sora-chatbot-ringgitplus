@@ -8,3 +8,5 @@ Pls guide me with full of patience and love. <3
 Thank you so much!
 
 Simply update for second time to commit.
+
+Ist merge successful. Trying second merge. 
