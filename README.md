@@ -9,4 +9,5 @@ Thank you so much!
 
 Simply update for second time to commit.
 
-Ist merge successful. Trying second merge. 
+First merge was successful. 
+Now I am try to commit and merge to main for the second time. 
